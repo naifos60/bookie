@@ -1,2 +1,1 @@
-# bookie
- 
+# booki-starter-pack
